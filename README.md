@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Devops, Python, Gen AI (Mutiple things )
 - 💞️ I’m looking to collaborate on Customer sucess and Incident managment 
 - 📫 pkoytti@gmail.com
-- ⚡ Fun fact: I feel sleep whem am more stressed :D
+- ⚡ Fun fact: I feel sleep whem am more stressed
 
 <!---
 pkoytti/pkoytti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
